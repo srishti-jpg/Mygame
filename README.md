@@ -1,4 +1,4 @@
 # Mygame
 This is my first git repo.
 <br>
-Author - Srishti Maind
+Author - Srishti 141204
